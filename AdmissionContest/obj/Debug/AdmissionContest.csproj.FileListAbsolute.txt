@@ -1,0 +1,6 @@
+D:\Projects\C# Projects\AdmissionContest\AdmissionContest\bin\Debug\AdmissionContest.exe.config
+D:\Projects\C# Projects\AdmissionContest\AdmissionContest\bin\Debug\AdmissionContest.exe
+D:\Projects\C# Projects\AdmissionContest\AdmissionContest\bin\Debug\AdmissionContest.pdb
+D:\Projects\C# Projects\AdmissionContest\AdmissionContest\obj\Debug\AdmissionContest.exe
+D:\Projects\C# Projects\AdmissionContest\AdmissionContest\obj\Debug\AdmissionContest.pdb
+D:\Projects\C# Projects\AdmissionContest\AdmissionContest\obj\Debug\AdmissionContest.csprojResolveAssemblyReference.cache
